@@ -20,7 +20,7 @@ p {
 }
 
 body {
-    background-color: #333;
+    background-color: black;
 }
 
 header {
@@ -38,4 +38,19 @@ footer {
 a {
     color: aquamarine;
     font-size: 16px;
+    margin: 20px;
+}
+
+video {
+    margin: 20px 0; 
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin: 20px 0;
 }
